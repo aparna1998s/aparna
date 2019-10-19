@@ -53,8 +53,8 @@ of Engineering & Technology,Sivakasi.
 
 ### PERSONAL DETAILS:
 
-**Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: APARNA.S<br/>
-**Father's Name**&nbsp;&nbsp;&nbsp;&nbsp;: SURULEESWARAN.R<br/>
+**Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: APARNA.S<br/>
+**Father's Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SURULEESWARAN.R<br/>
 **Gender**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Female.
 <br/>
 **Date of Birth**: 20.07.1998.<br/>
