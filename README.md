@@ -62,5 +62,4 @@ of Engineering & Technology,Sivakasi.
 **Hobbies**: Doing craft works,Listening Music.<br/>
 
 #### Linkedln:<br/>
-[APARNA SURULEESWARAN]<br/>
-(https://APARNASURULEESWARAN.com/)
+[APARNA SURULEESWARAN](https://www.linkedin.com/in/aparna-suruleeswaran-9a5b3169)
