@@ -45,6 +45,9 @@ Programming Knowledge-**C,C++**.
 &nbsp;&nbsp;&nbsp;&nbsp;Won FRIST prize in **CRYPTICS** conducted as a part of "TechnoholicAAA 2k17" on 8-SEPTEMBER-2017, at AAA College
 of Engineering & Technology,Sivakasi.
 
+**INPLANT TRAINING:**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Successfully completed the **TRAINING COURSE** conducted by BHARAT SANCHAR NIGAM LIMITED,Madurai.
+
 ### PERSONAL SKILLS:
 
 - Good at organizing
@@ -54,7 +57,7 @@ of Engineering & Technology,Sivakasi.
 ### PERSONAL DETAILS:
 
 **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: APARNA.S<br/>
-**Father's Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SURULEESWARAN.R<br/>
+**Father's Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SURULEESWARAN.R<br/>
 **Gender**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Female.
 <br/>
 **Date of Birth**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 20.07.1998.<br/>
