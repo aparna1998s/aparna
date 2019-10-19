@@ -1,5 +1,5 @@
 <p>
-<img align="right" width="150" height="160" src="Aparna (1).jpg">
+<img align="right" width="150" height="170" src="Aparna (1).jpg">
 </p>
 
 ## APARNA.S
