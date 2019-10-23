@@ -46,7 +46,7 @@ Programming Knowledge-**C,C++**.
 of Engineering & Technology,Sivakasi.
 
 **INPLANT TRAINING:**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Successfully completed the **TRAINING COURSE** conducted by BHARAT SANCHAR NIGAM LIMITED,Madurai.
+&nbsp;&nbsp;&nbsp;&nbsp;Successfully completed the **TRAINING COURSE** conducted by BHARAT SANCHAR NIGAM LIMITED,Madurai from 4-DECEMBER-2017 to 8-DECEMBER-2017.
 
 ### PERSONAL SKILLS:
 
