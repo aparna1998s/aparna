@@ -32,7 +32,7 @@
 
 ### COMPUTER SKILLS:
 
-Programming Knowledge-**C,C++**.
+Programming Knowledge-**C,C++,HTML**.
 
 ### CO-CURRICULAR ACTIVITIES:
 **WORKSHOP:**<br/>
